@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resegnas.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<resegnas>
+  <resegna id="0">
+    <titulo>el gran gatsby</titulo>
+    <autor>f. scott fitzgerald</autor>
+    <contenido>el gran gatsby captura magistralmente la efervescencia de los años. fitzgerald destila amor, ambición y desilusión en un relato envolvente. una crítica penetrante del sueño americano.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="1">
+    <titulo>En busca del tiempo perdido</titulo>
+    <autor>Marcel Proust</autor>
+    <contenido>Una introspección profunda sobre la naturaleza del tiempo, la memoria y el arte. Proust crea un retrato detallado y exquisito de la sociedad francesa de principios del siglo XX.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="2">
+    <titulo>Guerra y paz</titulo>
+    <autor>Leo Tolstoy</autor>
+    <contenido>Una épica historia que entrelaza destinos individuales y el curso de la historia. Tolstoy aborda temas de amor, familia y guerra durante la invasión napoleónica de Rusia.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="3">
+    <titulo>Las aventuras de Huckleberry Finn</titulo>
+    <autor>Mark Twain</autor>
+    <contenido>Una crítica astuta de la sociedad a través de los ojos de un joven. Twain aborda temas de raza, clase y moralidad en esta obra maestra de la literatura americana.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="4">
+    <titulo>Las uvas de la ira</titulo>
+    <autor>John Steinbeck</autor>
+    <contenido>La lucha de una familia durante la Gran Depresión en Estados Unidos. Steinbeck crea un poderoso retrato de la resistencia humana frente a la adversidad.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="5">
+    <titulo>La insoportable levedad del ser</titulo>
+    <autor>Milan Kundera</autor>
+    <contenido>Una meditación sobre el amor, la política y la existencia en la Checoslovaquia de la época soviética. Kundera explora la naturaleza transitoria de la vida y las decisiones que definimos.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="6">
+    <titulo>Madame Bovary</titulo>
+    <autor>Gustave Flaubert</autor>
+    <contenido>La historia trágica de una mujer que busca escapar de la mediocridad a través de aventuras amorosas y lujo. Flaubert critica la sociedad burguesa con un realismo escrupuloso.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="7">
+    <titulo>Cien años de soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <contenido>Una historia épica de la familia Buendía en el pueblo ficticio de Macondo. García Márquez combina lo real con lo mágico en una narrativa que explora la historia, la política, y las pasiones humanas.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="8">
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <contenido>En una sociedad totalitaria del futuro, Orwell explora temas de censura, vigilancia, y represión. Una advertencia sobre los peligros del poder absoluto y el control gubernamental.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="9">
+    <titulo>Un mundo feliz</titulo>
+    <autor>Aldous Huxley</autor>
+    <contenido>Una visión futurista de una sociedad donde el control y la conformidad son alcanzados no por la represión, sino por el entretenimiento y el placer. Una meditación profunda sobre la naturaleza humana.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="10">
+    <titulo>La metamorfosis</titulo>
+    <autor>Franz Kafka</autor>
+    <contenido>La historia de Gregor Samsa, quien despierta un día para encontrarse transformado en un insecto gigante. Un relato perturbador sobre la alienación, la culpa, y la identidad.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="11">
+    <titulo>Crónica de una muerte anunciada</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <contenido>La historia del asesinato de Santiago Nasar, un acto conocido por todos en el pueblo, pero inevitable debido a códigos culturales y de honor. Un relato fascinante de fatalismo y destino.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="12">
+    <titulo>Orgullo y prejuicio</titulo>
+    <autor>Jane Austen</autor>
+    <contenido>Una novela que se adentra en los temas del matrimonio, la moralidad y el malentendido, ambientada en la Inglaterra de principios del siglo XIX. Austen crea un retrato brillante de la sociedad con personajes memorables.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="13">
+    <titulo>Moby-Dick</titulo>
+    <autor>Herman Melville</autor>
+    <contenido>La obsesiva caza del capitán Ahab de la gran ballena blanca, Moby Dick. Una profunda exploración de la ambición, la venganza y la humanidad, todo presentado a través del lente de un viaje en alta mar.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="14">
+    <titulo>El señor de los anillos</titulo>
+    <autor>J.R.R. Tolkien</autor>
+    <contenido>Una épica narrativa de la lucha entre el bien y el mal, centrada en el viaje de Frodo Bolsón para destruir el Anillo Único. Tolkien crea un vasto mundo con su propia historia, lenguas y culturas.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="15">
+    <titulo>La carretera</titulo>
+    <autor>Cormac McCarthy</autor>
+    <contenido>Una historia postapocalíptica de un padre y su hijo tratando de sobrevivir en un mundo devastado. McCarthy examina la bondad, el mal y la voluntad de sobrevivir en las circunstancias más desesperadas.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="16">
+    <titulo>Cien años de soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <contenido>La saga mágica y trágica de la familia Buendía en el mítico pueblo de Macondo, que refleja las turbulencias de toda una nación. García Márquez mezcla lo real con lo maravilloso en una de las obras más grandes de la literatura.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="17">
+    <titulo>Los hermanos Karamázov</titulo>
+    <autor>Fyodor Dostoevsky</autor>
+    <contenido>Una profunda exploración de la fe, el libre albedrío y la moralidad, contada a través de la historia de una familia disfuncional en la Rusia del siglo XIX. Dostoevsky desafía al lector a cuestionar la naturaleza del bien y del mal.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="18">
+    <titulo>Ulises</titulo>
+    <autor>James Joyce</autor>
+    <contenido>Un día en la vida de Leopold Bloom, explorando la vida cotidiana en Dublín. Joyce utiliza técnicas literarias innovadoras para representar la conciencia y la identidad.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="19">
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <contenido>Las aventuras del caballero loco y su fiel escudero, Sancho Panza. Cervantes crea una sátira profunda sobre la fantasía y la realidad, y sobre la naturaleza del heroísmo.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="20">
+    <titulo>Fahrenheit 451</titulo>
+    <autor>Ray Bradbury</autor>
+    <contenido>Una distopía en la que los libros están prohibidos y "bomberos" queman cualquier ejemplar encontrado. Bradbury examina la censura y el conformismo en una sociedad obsesionada con la tecnología.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="21">
+    <titulo>El nombre de la rosa</titulo>
+    <autor>Umberto Eco</autor>
+    <contenido>Un misterio medieval en un monasterio italiano, donde un detective monje investiga una serie de asesinatos misteriosos. Eco combina el suspenso con la erudición en esta obra maestra.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="22">
+    <titulo>El ruido y la furia</titulo>
+    <autor>William Faulkner</autor>
+    <contenido>Una novela compleja que utiliza diversas técnicas narrativas para explorar la decadencia y el declive de la familia Compson en el sur de Estados Unidos.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="23">
+    <titulo>La odisea</titulo>
+    <autor>Homero</autor>
+    <contenido>El épico viaje de regreso de Odiseo después de la guerra de Troya. Homero narra con maestría las aventuras y desventuras de este héroe enfrentando monstruos, dioses y tentaciones.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="24">
+    <titulo>Al este del Edén</titulo>
+    <autor>John Steinbeck</autor>
+    <contenido>Una saga familiar que se desarrolla en el valle de Salinas en California, abordando temas de amor, odio, pecado y redención.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="25">
+    <titulo>Lo que el viento se llevó</titulo>
+    <autor>Margaret Mitchell</autor>
+    <contenido>El romance épico de Scarlett O'Hara y Rhett Butler durante la Guerra Civil Americana, presentando un retrato vívido del sur estadounidense y sus cambios sociales y culturales.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="26">
+    <titulo>La montaña mágica</titulo>
+    <autor>Thomas Mann</autor>
+    <contenido>La historia de un joven que visita un sanatorio y termina quedándose mucho más tiempo del previsto. Mann explora temas de enfermedad, tiempo, y la naturaleza de la existencia humana.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="27">
+    <titulo>Los miserables</titulo>
+    <autor>Victor Hugo</autor>
+    <contenido>La épica historia de Jean Valjean, un ex convicto en busca de redención en una Francia post-revolucionaria. Hugo examina temas de justicia, moralidad y amor en esta obra maestra.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="28">
+    <titulo>En el camino</titulo>
+    <autor>Jack Kerouac</autor>
+    <contenido>Una novela que define a la generación beat, siguiendo a un grupo de amigos mientras viajan por Estados Unidos. Kerouac captura el espíritu de rebelión y búsqueda de la posguerra.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="29">
+    <titulo>La vuelta al mundo en ochenta días</titulo>
+    <autor>Jules Verne</autor>
+    <contenido>La emocionante aventura de Phileas Fogg y su intento de circunnavegar el globo en solo 80 días. Verne combina el detalle técnico con el puro entretenimiento en esta narrativa clásica.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="30">
+    <titulo>Anna Karenina</titulo>
+    <autor>Leo Tolstoy</autor>
+    <contenido>Una historia sobre adulterio, sociedad y deseo en la Rusia zarista. Tolstoy retrata magistralmente el conflicto interno de Anna, mientras critica las normas sociales de la época.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="31">
+    <titulo>El juego de Ender</titulo>
+    <autor>Orson Scott Card</autor>
+    <contenido>En un futuro distópico, jóvenes prodigios son entrenados para defender a la humanidad de una inminente invasión alienígena. Card explora la moralidad de la guerra y el costo de la genialidad.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="32">
+    <titulo>Rebelión en la granja</titulo>
+    <autor>George Orwell</autor>
+    <contenido>Una fábula satírica que critica la corrupción del poder y las falsas utopías. Orwell utiliza animales para representar los vicios y virtudes humanas en una sociedad en transformación.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="33">
+    <titulo>Por quién doblan las campanas</titulo>
+    <autor>Ernest Hemingway</autor>
+    <contenido>En el contexto de la Guerra Civil Española, Hemingway narra la historia de un soldado estadounidense y su lucha interna entre el amor y el deber. Una crítica a la brutalidad de la guerra y al valor del sacrificio.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="34">
+    <titulo>Cien años de soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <contenido>El ascenso y caída de la familia Buendía en el ficticio pueblo de Macondo. García Márquez teje una narrativa mágica que es tanto una crónica familiar como una representación de la historia latinoamericana.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="35">
+    <titulo>El principito</titulo>
+    <autor>Antoine de Saint-Exupéry</autor>
+    <contenido>Un cuento filosófico sobre un joven príncipe que viaja por el universo, aprendiendo lecciones sobre la vida y el amor. Saint-Exupéry ofrece reflexiones profundas sobre la naturaleza humana y el significado de la existencia.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="36">
+    <titulo>Drácula</titulo>
+    <autor>Bram Stoker</autor>
+    <contenido>El conde Drácula busca expandir su influencia y dominio en Inglaterra, enfrentándose a un grupo decidido a detenerlo. Stoker establece el estándar para la literatura de vampiros en esta novela gótica.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="37">
+    <titulo>El retrato de Dorian Gray</titulo>
+    <autor>Oscar Wilde</autor>
+    <contenido>Dorian Gray, un joven de extraordinaria belleza, obtiene la eterna juventud mientras un retrato suyo envejece y muestra las huellas de sus pecados. Wilde explora temas de vanidad, moralidad y corrupción.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="38">
+    <titulo>El ruido de un trueno</titulo>
+    <autor>Ray Bradbury</autor>
+    <contenido>Un cuento de ciencia ficción que explora las consecuencias imprevistas de viajar en el tiempo. Bradbury reflexiona sobre el impacto de las decisiones individuales en el curso de la historia.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="39">
+    <titulo>Los detectives salvajes</titulo>
+    <autor>Roberto Bolaño</autor>
+    <contenido>Dos poetas viajan en busca de una escritora desaparecida, enfrentando todo tipo de aventuras y desventuras. Bolaño ofrece una visión crítica y humorística de la literatura y la bohemia artística.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="40">
+    <titulo>Misery</titulo>
+    <autor>Stephen King</autor>
+    <contenido>Este ha sido mi primer libro de terror psicológico que he leído en mi vida y no me decepcionó. Desde el inicio se atrapa, pues no sabes que se situación se encuentra el personaje principal. La enferma es una clara representación de obsesión a muerte por un personaje ficticio. Mi libro favorito hasta el momento. Cinco estrellas.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="41">
+    <titulo>Luna de pluton</titulo>
+    <autor>Dross</autor>
+    <contenido>Mi libro, Luna de Plutón, está siendo un éxito de venta en todas las librerías de México, Argentina, Colombia, España y todos los lugares de habla hispana.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="42">
+    <titulo>El Secreto de Dios </titulo>
+    <autor>Guillermo Ferrara</autor>
+    <contenido>Es un libro bastante interesante. Una novela que mezcla todos los conceptos y perspectivas de la posibilidad humana desde el ámbito espiritual, científico y filosófico. De alguna manera te da una perspectiva en el que la suposición puede volverse verdad con la manera en que estos ámbitos se conectan tan lógicamente.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="43">
+    <titulo>donde surgen las sombras </titulo>
+    <autor>desconocido</autor>
+    <contenido>Este libro me gusto desde la secundaria, tiene una muy buena trama me gusta porque ínsita al lector a continuar leyendo. </contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="44">
+    <titulo>La Biblia</titulo>
+    <autor>Dios</autor>
+    <contenido>Harto dios, Harto hecho sin afirmar.</contenido>
+    <puntuacion>3</puntuacion>
+  </resegna>
+  <resegna id="45">
+    <titulo>Understanding The Media</titulo>
+    <autor>Marshall McLuhan</autor>
+    <contenido>Un libro de crítica a los medios como extensiones del ser humano y su impacto indirecto en nuestra forma de vida.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="46">
+    <titulo>Las Palabras y Las Cosas</titulo>
+    <autor>Michael Foucalt</autor>
+    <contenido>Libro de crítica hacia como el razonamiento no está determinado por la lógica o el raciocinio, si no, por lo permitido por las estructuras de poder de una época.</contenido>
+    <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="47">
+    <titulo>El Vuelo del Fénix</titulo>
+    <autor>Isabella Mire</autor>
+    <contenido>Una cautivadora novela que narra la travesía de una mujer que, tras enfrentar adversidades insuperables, renace con una fuerza y determinación inigualables.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="48">
+      <titulo>Noches Blancas</titulo>
+      <autor>Fyodor Dostoyevsky</autor>
+      <contenido>Una historia sobre la soledad y el amor no correspondido. Dostoyevsky explora las profundidades del alma humana y sus deseos más íntimos en una ciudad que nunca duerme.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="49">
+      <titulo>Mar de Sombras</titulo>
+      <autor>Laura Velasco</autor>
+      <contenido>Un thriller psicológico donde el pasado y presente colisionan, llevando a la protagonista a descubrir secretos oscuros de su familia y su propia mente.</contenido>
+      <puntuacion>3</puntuacion>
+  </resegna>
+  <resegna id="50">
+      <titulo>La Melodía de los Recuerdos</titulo>
+      <autor>Carlos Ruiz</autor>
+      <contenido>Con una prosa poética y evocadora, Ruiz nos transporta a un pasado lleno de nostalgia, amores perdidos y la siempre presente música que acompaña cada recuerdo.</contenido>
+      <puntuacion>4</puntuacion>
+  </resegna>
+  <resegna id="51">
+      <titulo>Puertas al Infinito</titulo>
+      <autor>Leonardo Soto</autor>
+      <contenido>Una novela de ciencia ficción que plantea preguntas sobre la realidad, el universo y nuestra posición en él. Soto lleva a los lectores en un viaje interdimensional lleno de misterio.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="52">
+    <titulo>El Laberinto del Alba</titulo>
+    <autor>Sofía Martínez</autor>
+    <contenido>En un mundo donde la noche y el día se entrelazan, una joven debe navegar por un laberinto místico para encontrar el amanecer perdido y restablecer el equilibrio.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+
+  <resegna id="53">
+      <titulo>Caminos Cruzados</titulo>
+      <autor>Julio César Vega</autor>
+      <contenido>La vida de dos extraños se entrecruza de manera inesperada, llevándolos a cuestionar sus elecciones, destinos y la naturaleza del propio amor.</contenido>
+      <puntuacion>3</puntuacion>
+  </resegna>
+
+  <resegna id="54">
+      <titulo>Vientos del Sur</titulo>
+      <autor>Patricia Ortega</autor>
+      <contenido>Una epopeya histórica que sigue a una familia a lo largo de tres generaciones, desde sus humildes comienzos hasta su influencia en la revolución del país.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+
+  <resegna id="55">
+      <titulo>Ecos del Futuro</titulo>
+      <autor>Roberto Linares</autor>
+      <contenido>Una novela distópica que muestra un futuro donde la tecnología ha avanzado, pero a costa de la humanidad y sus valores. Linares plantea dilemas éticos profundos y perturbadores.</contenido>
+      <puntuacion>4</puntuacion>
+  </resegna>
+
+  <resegna id="56">
+      <titulo>Reflejos en el Agua</titulo>
+      <autor>Ana Belén Rodríguez</autor>
+      <contenido>Una exploración poética de los recuerdos, la identidad y la conexión con la naturaleza. Cada capítulo es como una piedra que cae en un estanque, creando ondas expansivas de introspección.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="57">
+    <titulo>Las Sombras de la Mente</titulo>
+    <autor>Ernesto Maldonado</autor>
+    <contenido>Un viaje psicológico por las profundidades de la mente humana, explorando los límites entre la cordura y la locura. Maldonado nos sumerge en un thriller intenso y perturbador.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+
+  <resegna id="58">
+      <titulo>El Último Suspiro del Dragón</titulo>
+      <autor>Liliana Paredes</autor>
+      <contenido>En un mundo de magia y dragones, una guerrera se embarca en una misión para salvar a su pueblo. Paredes crea un universo fascinante lleno de aventuras y traiciones.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+
+  <resegna id="59">
+      <titulo>Bajo la Luz de la Luna</titulo>
+      <autor>Carlos Navarro</autor>
+      <contenido>Una historia romántica que se desarrolla en un pequeño pueblo costero. Navarro nos habla de segundas oportunidades, amores del pasado y promesas bajo el cielo estrellado.</contenido>
+      <puntuacion>3</puntuacion>
+  </resegna>
+
+  <resegna id="60">
+      <titulo>Los Códigos Olvidados</titulo>
+      <autor>Beatriz Solano</autor>
+      <contenido>Una intrépida arqueóloga descubre antiguos manuscritos que podrían cambiar la historia. Solano nos lleva en una carrera contra el tiempo llena de misterios y enigmas.</contenido>
+      <puntuacion>4</puntuacion>
+  </resegna>
+
+  <resegna id="61">
+      <titulo>Las Arenas del Tiempo</titulo>
+      <autor>Jorge Alfonso</autor>
+      <contenido>Un viajero del tiempo se encuentra atrapado en el antiguo Egipto. Alfonso nos presenta una trama llena de intrigas palaciegas, amores prohibidos y la búsqueda de un camino a casa.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+  <resegna id="62">
+    <titulo>Fragmentos de un Sueño</titulo>
+    <autor>Diana Guerrero</autor>
+    <contenido>Diana Guerrero nos transporta a través de las múltiples facetas del sueño y la realidad. En una ciudad que nunca duerme, Clara, una joven escritora, enfrenta episodios de insomnio que la llevan a vivir experiencias oníricas tan intensas que comienza a cuestionar su propia realidad. A medida que se adentra en su mente, descubre secretos y traumas del pasado que debe enfrentar para encontrar la paz interior.</contenido>
+    <puntuacion>4</puntuacion>
+  </resegna>
+
+  <resegna id="63">
+      <titulo>Guardianes de la Niebla</titulo>
+      <autor>Alfredo Rojas</autor>
+      <contenido>En un reino cubierto permanentemente por una espesa niebla, los Guardianes tienen el deber sagrado de proteger a los habitantes de criaturas que se esconden en la penumbra. Isabella, una joven Guardiana, descubre una conspiración que amenaza no solo la paz del reino, sino la existencia misma de la niebla. Alfredo Rojas teje una narrativa épica de aventura, magia y traición en este apasionante mundo fantástico.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+
+  <resegna id="64">
+      <titulo>El Silencio entre las Notas</titulo>
+      <autor>Marta Sánchez</autor>
+      <contenido>Marta Sánchez nos presenta a Alejandro, un pianista prodigio que tras un accidente, pierde la capacidad de escuchar música. Sin embargo, empieza a oír los silencios, los espacios entre cada nota, y descubre en ellos un lenguaje completamente nuevo. En su viaje de autodescubrimiento y superación, Alejandro aprende que la vida, al igual que la música, encuentra su belleza no solo en los sonidos, sino también en los silencios.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+
+  <resegna id="65">
+      <titulo>Rastros de Otoño</titulo>
+      <autor>Leonardo Prieto</autor>
+      <contenido>La historia se sitúa en un pequeño pueblo rodeado de bosques donde, cada otoño, misteriosas desapariciones ocurren. Daniel, un periodista que regresa a su hogar después de años, se encuentra determinado a desentrañar el misterio detrás de estas desapariciones. Sin embargo, lo que descubre es un entramado de secretos familiares y leyendas antiguas que cambiarán su percepción del lugar para siempre. Prieto nos sumerge en una trama de suspense y folklore en esta obra maestra.</contenido>
+      <puntuacion>4</puntuacion>
+  </resegna>
+
+  <resegna id="66">
+      <titulo>Espejismos del Desierto</titulo>
+      <autor>Isabel Pinto</autor>
+      <contenido>Isabel Pinto nos lleva a las ardientes arenas del desierto, donde un arqueólogo y su equipo descubren una ciudad perdida. Sin embargo, a medida que se adentran en sus secretos, comienzan a experimentar visiones y sucesos inexplicables. La ciudad, resulta ser un ente vivo que se comunica a través de espejismos y alucinaciones. La lucha por la supervivencia y la cordura se entrelaza con la seducción de un descubrimiento que podría cambiar la historia.</contenido>
+      <puntuacion>5</puntuacion>
+  </resegna>
+
+</resegnas>

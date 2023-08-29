@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212.08 62.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #f6e81d;
+      }
+
+      .cls-3 {
+        fill: #1d1d1b;
+        font-family: CascadiaCode-Regular, 'Cascadia Code';
+        font-size: 12px;
+        font-variation-settings: 'wght' 400;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(8.17 56.99)"><tspan x="0" y="0">Aquí no hay nada que mostrar </tspan></text>
+  <text/>
+  <circle class="cls-2" cx="157.87" cy="23" r="22.5"/>
+  <circle cx="148.42" cy="14.23" r="2.98"/>
+  <circle cx="172.76" cy="20.19" r="2.98"/>
+  <path class="cls-1" d="m146.28,32.36c.34-1.92,2.29-3.12,4.15-3.7,3.63-1.13,7.75-.83,11.04,1.07s5.65,5.45,5.86,9.25"/>
+</svg>
